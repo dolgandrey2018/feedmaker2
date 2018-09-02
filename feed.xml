@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+<generation-date>2018-09-02T16:30:50+03:00</generation-date>
+<offer internal-id="42701">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13491727/76</url>
+<creation-date>2018-09-02T15:35:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ш.Южное, д.53, к.5</address>
+<metro>
+<name>Международная</name><time-on-transport>10</time-on-transport></metro><metro>
+<name>Ломоносовская</name><time-on-transport>10</time-on-transport></metro><metro>
+<name>Звездная</name><time-on-transport>10</time-on-transport></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>32000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>56.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>16</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>18</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>34</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42701&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=12</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=13</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=14</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=15</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=16</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=17</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=18</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=19</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=20</image><image>http://79216322696.ru/photo.php?id=42701&amp;num=21</image>
+<description>
+ залог, не рассм гастарб/рабоч/строит, гражданам рф, для 1-3 чел, для семьи, можно:, с детьми, без животных, новый дом, чистая парадная, все новое., санузел в кафеле, застекленный балкон, пластиковые окна, идеальное состояние, новая:, есть вся необходимая мебель</description>
+<rooms>2</rooms><floor>4</floor>
+<floors-total>25</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42390">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/12929633/76</url>
+<creation-date>2018-09-02T15:36:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Типанова, д.27</address>
+<metro>
+<name>Московская</name><time-on-transport>5</time-on-transport></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>38000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>45.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>14</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>16</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>30</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42390&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42390&amp;num=9</image>
+<description>
+ залог можно вносить частями, евроремонт, современная мебель, изыск/дизайн, элитный жил/компл, жил/компл доминанта</description>
+<rooms>2</rooms><floor>7</floor>
+<floors-total>22</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42386">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13491903/76</url>
+<creation-date>2018-09-02T15:20:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Варшавская, д.6, к.1</address>
+<metro>
+<name>Электросила</name><time-on-foot>3</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>40000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>43.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>17</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>17</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>12.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42386&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42386&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42386&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42386&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42386&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42386&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42386&amp;num=7</image>
+<description>
+Новый дом, евроремонт, отличное состояние, есть вся необходимая мебель, коммунальные платежи уже включены в цену, +свет, +вода по/сч-ку</description>
+<rooms>1</rooms><floor>8</floor>
+<floors-total>14</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42381">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13491923/76</url>
+<creation-date>2018-09-02T15:10:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Будапештская, д.48</address>
+<metro>
+<name>Купчино</name><time-on-transport>5</time-on-transport></metro><metro>
+<name>Международная</name><time-on-transport>5</time-on-transport></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>33.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>17</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>17</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42381&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42381&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42381&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42381&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42381&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42381&amp;num=6</image>
+<description>
+Новый дом, идеальное состояние, евроремонт, кафель, ламинат, стеклопакеты, встроенная кухня, современная мебель, есть все необходимое оборудование, встроенная посудомойка, wi-fi/интернет, видео наблюдение, сдается впервые, дополнительные фото вышлю по запросу, </description>
+<rooms>1</rooms><floor>7</floor>
+<floors-total>16</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42375">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13491965/76</url>
+<creation-date>2018-09-02T15:23:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Будапештская, д.48</address>
+<metro>
+<name>Международная</name><time-on-foot>10</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>34.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>18</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>18</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>7.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42375&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42375&amp;num=8</image>
+<description>
+Материал: кирп/мон. Солнечная сторона, чистый двор. Большая парковка у дома.</description>
+<rooms>1</rooms><floor>7</floor>
+<floors-total>16</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42359">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/10897648/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Витебский пр-кт, д.51</address>
+<metro>
+<name>Московская</name><time-on-transport>8</time-on-transport></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>27000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>57.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>22</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>12</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>34</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42359&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42359&amp;num=12</image>
+<description>
+ застекленая лоджия, новый дом, после ремонта, отличное состояние, видео наблюдение, закрытый охраняемый двор, закрытая бесплатная парковка</description>
+<rooms>2</rooms><floor>6</floor>
+<floors-total>16</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42346">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492177/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Московский пр-кт, д.220</address>
+<metro>
+<name>Московская</name><time-on-foot>2</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>31000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>45.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>12</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>32</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>7.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42346&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42346&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42346&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42346&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42346&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42346&amp;num=6</image>
+<description>Уютная обстановка. Есть мебель и все удобства. Хороший вид из окна.</description>
+<rooms>2</rooms><floor>5</floor>
+<floors-total>9</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="38785">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13461145/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Московский пр-кт, д.200</address>
+<metro>
+<name>Парк Победы</name><time-on-foot>5</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>80000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>60.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>14</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>34</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>12.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=38785&amp;num=1</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=2</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=3</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=4</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=5</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=6</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=7</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=8</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=9</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=10</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=11</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=12</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=13</image><image>http://79216322696.ru/photo.php?id=38785&amp;num=14</image>
+<description>
+Евроремонт, все новое, новая мебель.</description>
+<rooms>2</rooms><floor>5</floor>
+<floors-total>6</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="34561">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13437599/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Космонавтов пр-кт, д.61</address>
+<metro>
+<name>Звездная</name><time-on-foot>8</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>30000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>36.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>17</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>17</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=34561&amp;num=1</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=2</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=3</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=4</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=5</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=6</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=7</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=8</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=9</image><image>http://79216322696.ru/photo.php?id=34561&amp;num=10</image>
+<description>Новая бытовая техника и мебель. Чистый двор, рядом продовольственные магазины.</description>
+<rooms>1</rooms><floor>2</floor>
+<floors-total>14</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42595">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13285543/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Славы пр-кт, д.52, к.1</address>
+<metro>
+<name>Международная</name><time-on-foot>10</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>40.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>20</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42595&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42595&amp;num=12</image>
+<description>
+Новый элитный жил/компл, отличное состояние, ламинат, санузел в евроремонте, встроенная кухня, духов эл/шкаф, есть вся необходимая мебель, гардеробная комната, застекленая лоджия, сдается с 10.09, а смотреть можно сейчас</description>
+<rooms>1</rooms><floor>12</floor>
+<floors-total>25</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42589">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492523/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Костюшко, д.44</address>
+<metro>
+<name>Московская</name><time-on-foot>10</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>32000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>50.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>14</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>17</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>31</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>8.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42589&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42589&amp;num=8</image>
+<description>без животных, гражданство РФ, раздельные комнаты</description>
+<rooms>2</rooms><floor>10</floor>
+<floors-total>10</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42585">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492531/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Бухарестская, д.72, к.1</address>
+<metro>
+<name>Международная</name><time-on-foot>5</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>38.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>21</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>21</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>8.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42585&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42585&amp;num=12</image>
+<description>
+гражданам рф, для 1-2 чел, для пары, для сотрудников организации, без детей, без животных</description>
+<rooms>1</rooms><floor>10</floor>
+<floors-total>10</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42587">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/12465035/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Звездная, д.8</address>
+<metro>
+<name>Звездная</name><time-on-foot>2</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>36.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>17</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>17</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>8.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42587&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42587&amp;num=8</image>
+<description>
+ залог, для 1-2 человек, для семьи, отличный ремонт, есть вся необходимая мебель, без животных</description>
+<rooms>1</rooms><floor>8</floor>
+<floors-total>9</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42580">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492549/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Турку, д.13</address>
+<metro>
+<name>Бухарестская</name><time-on-foot>6</time-on-foot></metro><metro>
+<name>Международная</name><time-on-foot>6</time-on-foot></metro><metro>
+<name>Московская</name><time-on-foot>6</time-on-foot></metro><metro>
+<name>Парк Победы</name><time-on-foot>6</time-on-foot></metro><metro>
+<name>Купчино</name><time-on-foot>6</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>45000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>42.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>10</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>10</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>16.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42580&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=12</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=13</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=14</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=15</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=16</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=17</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=18</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=19</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=20</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=21</image><image>http://79216322696.ru/photo.php?id=42580&amp;num=22</image>
+<description>рядом метро, спортивный комплекс в соседнем дворе, детская площадка.</description>
+<rooms>1</rooms><floor>11</floor>
+<floors-total>18</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="21612">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13347201/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Турку, д.27</address>
+<metro>
+<name>Международная</name><time-on-foot>15</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>35000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>35.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>27</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>27</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>8.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=21612&amp;num=1</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=2</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=3</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=4</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=5</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=6</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=7</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=8</image><image>http://79216322696.ru/photo.php?id=21612&amp;num=9</image>
+<description>
+кофеварка, сейф, посудомойка, бойлер, стиральная машина с сушкой, джакузи, охран/сигн,  3000 руб</description>
+<rooms>1</rooms><floor>10</floor>
+<floors-total>10</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42565">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/12069401/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Космонавтов пр-кт, д.61, к.2</address>
+<metro>
+<name>Звездная</name><time-on-foot>6</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>42.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>18</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>18</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>12.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42565&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=12</image><image>http://79216322696.ru/photo.php?id=42565&amp;num=13</image>
+<description>Большая кухня, холодильник с разморозкой, плита как новая.</description>
+<rooms>1</rooms><floor>15</floor>
+<floors-total>24</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42564">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/11883741/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Дунайский пр-кт, д.14, к.1</address>
+<metro>
+<name>Звездная</name><time-on-foot>7</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>28000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>40.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>18.8</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>18.8</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>10.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42564&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42564&amp;num=10</image>
+<description>
++вода по/сч-ку, +свет, новый дом, все новое., застекленая лоджия, удобный заезд на кад, чист/возд, рядом метро, новый квартал, развитая инфра/стр-ра, сдается впервые, рядом церковь, диван, встроенная кухня, шкаф, </description>
+<rooms>1</rooms><floor>22</floor>
+<floors-total>25</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="30432">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/10934900/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Пулковская, д.10, к.1</address>
+<metro>
+<name>Звездная</name><time-on-foot>2</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>31000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>40.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>21.7</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>21.7</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>8.70</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=30432&amp;num=1</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=2</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=3</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=4</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=5</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=6</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=7</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=8</image><image>http://79216322696.ru/photo.php?id=30432&amp;num=9</image>
+<description>
+Элитная, элитный дом, развитая инфр-ра, идеальное состояние, евроремонт, есть вся необходимая мебель, имеется вся бытовая техника, видео наблюдение, охран/двор, консьерж, рядом метро, +вода по/сч-ку,  +свет</description>
+<rooms>1</rooms><floor>3</floor>
+<floors-total>9</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="26853">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13343715/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Космонавтов пр-кт, д.63, к.1</address>
+<metro>
+<name>Звездная</name><time-on-foot>15</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>40000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>42.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>18</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>18</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>11.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=26853&amp;num=1</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=2</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=3</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=4</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=5</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=6</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=7</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=8</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=9</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=10</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=11</image><image>http://79216322696.ru/photo.php?id=26853&amp;num=12</image>
+<description>вся мебель новая, евроремонт</description>
+<rooms>1</rooms><floor>4</floor>
+<floors-total>13</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42700">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492697/76</url>
+<creation-date>2018-09-02T15:30:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Краснопутиловская, д.125</address>
+<metro>
+<name>Московская</name><time-on-foot>10</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>90000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>68.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>25</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>16</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>41</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>43.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42700&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42700&amp;num=11</image>
+<description>Уютная обстановка. Рядом детская площадка и школа.</description>
+<rooms>2</rooms><floor>16</floor>
+<floors-total>16</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="38984">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/12497539/76</url>
+<creation-date>2018-09-02T15:31:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Пулковская, д.8, к.1</address>
+<metro>
+<name>Звездная</name><time-on-foot>5</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>40000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>70.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>16</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>36</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>12.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=38984&amp;num=1</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=2</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=3</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=4</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=5</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=6</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=7</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=8</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=9</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=10</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=11</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=12</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=13</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=14</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=15</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=16</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=17</image><image>http://79216322696.ru/photo.php?id=38984&amp;num=18</image>
+<description>
+Гардероб, конд, сейф, панорамный вид на город, панорамное остекление, спорт/тренаж, кожаная мебель, развитая инфра/стр-ра, ландшафтный дизайн, все лифты раб, евроремонт, качественный ремонт, полы с подогревом, двухкамерный холодильник, микроволновая печь, застекленая лоджия, новый элитный жил/компл, престижное место, коммунальные платежи уже включены в цену, сдается с 10.08, а смотреть можно сейчас</description>
+<rooms>2</rooms><floor>16</floor>
+<floors-total>24</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42552">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492705/76</url>
+<creation-date>2018-09-02T15:36:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:38:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Будапештская, д.48</address>
+<metro>
+<name>Международная</name><time-on-foot>10</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>25000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>34.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>18</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>18</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>8.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42552&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42552&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42552&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42552&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42552&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42552&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42552&amp;num=7</image>
+<description>сдается впервые. Есть все удобства.</description>
+<rooms>1</rooms><floor>7</floor>
+<floors-total>16</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42664">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13492823/76</url>
+<creation-date>2018-09-02T15:39:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ш.Южное, д.53, к.5</address>
+<metro>
+<name>Международная</name><time-on-transport>10</time-on-transport></metro><metro>
+<name>Ломоносовская</name><time-on-transport>10</time-on-transport></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>32000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>58.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>18</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>16</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>34</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>12.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42664&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=12</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=13</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=14</image><image>http://79216322696.ru/photo.php?id=42664&amp;num=15</image>
+<description>
+Есть вся необходимая мебель, все новое, без животных</description>
+<rooms>2</rooms><floor>4</floor>
+<floors-total>24</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42699">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/12224323/76</url>
+<creation-date>2018-09-02T15:32:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ул.Варшавская, д.6, к.1</address>
+<metro>
+<name>Электросила</name><time-on-foot>5</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>30000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>48.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>20</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>15.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42699&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42699&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42699&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42699&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42699&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42699&amp;num=6</image>
+<description>
+сдается впервые, все новое, современная мебель, диван угл, шкаф купе, компьют/стол, телевизор, кухонная мебель, имеется вся бытовая техника, санузел в евроремонте, рядом метро, рядом супермаркет, фитнес-центр</description>
+<rooms>1</rooms><floor>2</floor>
+<floors-total>20</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="28980">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/12369973/76</url>
+<creation-date>2018-09-02T15:31:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>Московский пр-кт, д.191</address>
+<metro>
+<name>Московская</name><time-on-foot>2</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>38000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>54.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>14</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>34</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>9.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=28980&amp;num=1</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=2</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=3</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=4</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=5</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=6</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=7</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=8</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=9</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=10</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=11</image><image>http://79216322696.ru/photo.php?id=28980&amp;num=12</image>
+<description>
+отличное состояние, санузел в кафеле, ламинат, кафель, натяжные потолки, после ремонта, есть вся необходимая мебель, кожаная мебель, импортная мебель, для гражданам рф</description>
+<rooms>2</rooms><floor>3</floor>
+<floors-total>10</floors-total>
+<phone>да</phone><internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+ <offer internal-id="42698">
+<type>аренда</type>
+<property-type>жилая</property-type>
+<category>квартира</category>
+<url>http://79216322696.ru/object/13493011/76</url>
+<creation-date>2018-09-02T15:39:50+03:00</creation-date>
+<last-update-date>2018-09-02T15:30:50+03:00</last-update-date>
+<location>
+<country>Россия</country>
+<locality-name>Санкт-Петербург</locality-name>
+<address>ш.Московское, д.24, к.2</address>
+<metro>
+<name>Звездная</name><time-on-foot>7</time-on-foot></metro></location>
+<sales-agent>
+<name>Андрей Михайлович</name>
+<phone>+7(921)632-26-96</phone>
+<category>агентство</category>
+<organization>ЦН Питер</organization>
+<url>79216322696.ru</url>
+<email>dolg.andrey2018@yandex.ru</email>
+</sales-agent>
+<price>
+<value>60000</value>
+<currency>RUR</currency>
+<period>месяц</period> 
+</price>
+<utilities-included>нет</utilities-included><rent-pledge>да</rent-pledge><agent-fee>100</agent-fee><commission>100</commission><area>
+<value>70.00</value>
+<unit>кв.м</unit>
+</area>
+<room-space>
+<value>20</value>
+<unit>кв.м</unit>
+</room-space><room-space>
+<value>16</value>
+<unit>кв.м</unit>
+</room-space><living-space>
+<value>36</value>
+<unit>кв.м</unit>
+</living-space><kitchen-space>
+<value>12.00</value>
+<unit>кв.м</unit>
+</kitchen-space><image>http://79216322696.ru/photo.php?id=42698&amp;num=1</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=2</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=3</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=4</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=5</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=6</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=7</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=8</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=9</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=10</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=11</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=12</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=13</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=14</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=15</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=16</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=17</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=18</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=19</image><image>http://79216322696.ru/photo.php?id=42698&amp;num=20</image>
+<description>
+ +свет, залог, сдается впервые, просмотры в любое время - ключи у агента, новый дом, идеальное состояние, все новое., отличная отделка, идеальная отделка, дизайнерский интерьер, дом бизнес-класса, в стиле модерн, новая:, новая бытовая техника, нов оборуд, груз/лифт, имп/сантех</description>
+<rooms>2</rooms><floor>5</floor>
+<floors-total>22</floors-total>
+<internet>да</internet><room-furniture>да</room-furniture><television>да</television><washing-machine>да</washing-machine><refrigerator>да</refrigerator></offer>
+</realty-feed>
